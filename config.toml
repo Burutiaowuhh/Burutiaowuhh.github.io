@@ -1,4 +1,4 @@
 baseURL = 'https://bututiaowuhh.github.io'
-#languageCode = 'en-us'
+languageCode = 'zh-cn'
 title = "Burutiaowu's Blog"
 theme = 'ananke'
