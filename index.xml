@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Burutiaowu's Blog</title><link>https://bututiaowuhh.github.io/</link><description>Recent content on Burutiaowu's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Tue, 04 Apr 2023 00:01:15 +0800</lastBuildDate><atom:link href="https://bututiaowuhh.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Myfirst Post</title><link>https://bututiaowuhh.github.io/posts/myfirst-post/</link><pubDate>Tue, 04 Apr 2023 00:01:15 +0800</pubDate><guid>https://bututiaowuhh.github.io/posts/myfirst-post/</guid><description>This is bold text, and this is emphasized text.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Burutiaowu&#39;s Blog</title>
+    <link>https://bututiaowuhh.github.io/</link>
+    <description>Recent content on Burutiaowu&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 04 Apr 2023 00:01:15 +0800</lastBuildDate><atom:link href="https://bututiaowuhh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Myfirst Post</title>
+      <link>https://bututiaowuhh.github.io/posts/myfirst-post/</link>
+      <pubDate>Tue, 04 Apr 2023 00:01:15 +0800</pubDate>
+      
+      <guid>https://bututiaowuhh.github.io/posts/myfirst-post/</guid>
+      <description>This is bold text, and this is emphasized text.</description>
+    </item>
+    
+  </channel>
+</rss>
