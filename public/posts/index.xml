@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Burutiaowu&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 05 Apr 2023 19:21:32 +0800</lastBuildDate><atom:link href="https://bututiaowuhh.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Apr 2023 19:26:26 +0800</lastBuildDate><atom:link href="https://bututiaowuhh.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test2</title>
+      <link>https://bututiaowuhh.github.io/posts/test2/</link>
+      <pubDate>Wed, 05 Apr 2023 19:26:26 +0800</pubDate>
+      
+      <guid>https://bututiaowuhh.github.io/posts/test2/</guid>
+      <description>test 2</description>
+    </item>
+    
     <item>
       <title>Test1</title>
       <link>https://bututiaowuhh.github.io/posts/test1/</link>
