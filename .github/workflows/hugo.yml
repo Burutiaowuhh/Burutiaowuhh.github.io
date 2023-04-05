@@ -5,7 +5,7 @@ on:
   # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
-
+  workflow_dispatch:
   pull_request:
 
 jobs:
@@ -27,7 +27,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify
+        run: hugo
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
