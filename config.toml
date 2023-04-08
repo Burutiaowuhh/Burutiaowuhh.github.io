@@ -1,4 +1,4 @@
-baseURL = 'https://bututiaowuhh.github.io'
+baseURL = 'https://burutiaowuhh.github.io'
 languageCode = 'zh-CN'
 title = "Burutiaowu's Blog"
 theme = 'LoveIt'
@@ -8,7 +8,7 @@ hasCJKLanguage = true
 [author]
   name = "mao"
   email = "burutiaowuhh@outlook.com"
-  link = "https://github.com/Bututiaowuhh"
+  link = "https://github.com/Burutiaowuhh"
 
 
 # 菜单配置
