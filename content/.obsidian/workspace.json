@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "97b8027ce1a2be61",
+        "id": "a7f02a7a70f8c7df",
         "type": "tabs",
         "children": [
           {
-            "id": "c01d2ffd25f3f444",
+            "id": "1ef0381532212cb9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/多线程/一、实现线程的方法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "942ab3f6b5bbb885",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/java/JVM 内存结构和 Java 对象模型.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/java/JVM 内存结构和 Java 对象模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/java/JVM 内存结构和 Java 对象模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "posts/java/JVM 内存结构和 Java 对象模型.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,14 +138,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "942ab3f6b5bbb885",
+  "active": "1ef0381532212cb9",
   "lastOpenFiles": [
+    "未命名.md",
     "posts/多线程/一、实现线程的方法.md",
+    "posts/java/JVM 内存结构和 Java 对象模型.md",
     "posts/多线程/二、线程的六种状态.md",
     "posts/多线程/三、Thread 和 Object 类中的方法.md",
     "posts/多线程/四、JMM(Java内存模型).md",
     "posts/多线程/五、线程池.md",
-    "posts/java/JVM 内存结构和 Java 对象模型.md",
     "posts/java/equalsandhashcode.md",
     "posts/myfirst-post.md",
     "posts/多线程",
