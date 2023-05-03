@@ -11,8 +11,12 @@
             "id": "1ef0381532212cb9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "posts/操作系统/链接 -- 《深入理解计算机系统》.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "posts/操作系统/链接 -- 《深入理解计算机系统》.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "posts/操作系统/链接 -- 《深入理解计算机系统》.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "posts/操作系统/链接 -- 《深入理解计算机系统》.md"
+              }
             }
           }
         ]
@@ -140,10 +148,11 @@
   },
   "active": "1ef0381532212cb9",
   "lastOpenFiles": [
-    "未命名.md",
+    "posts/多线程/二、线程的六种状态.md",
+    "posts/操作系统/链接 -- 《深入理解计算机系统》.md",
+    "posts/操作系统",
     "posts/多线程/一、实现线程的方法.md",
     "posts/java/JVM 内存结构和 Java 对象模型.md",
-    "posts/多线程/二、线程的六种状态.md",
     "posts/多线程/三、Thread 和 Object 类中的方法.md",
     "posts/多线程/四、JMM(Java内存模型).md",
     "posts/多线程/五、线程池.md",
